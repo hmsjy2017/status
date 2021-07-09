@@ -32,7 +32,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.iamsjy.eu.or'
+      url: 'https://status.iamsjy.eu.org'
     },
     {
       text: 'Cloudreve',
