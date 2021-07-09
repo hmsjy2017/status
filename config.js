@@ -35,8 +35,8 @@ window.Config = {
       url: 'https://status.iamsjy.eu.org'
     },
     {
-      text: 'Cloudreve',
-      url: 'https://cloudreve-drive.herokuapp.com'
+      text: 'GitHub',
+      url: 'https://github.com/hmsjy2017/status'
     }
   ]
 };
